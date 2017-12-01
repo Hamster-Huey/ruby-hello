@@ -1,1 +1,1 @@
-run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello again from App Servicekuyg hjkbvj!']] }
+run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello again from App Service!']] }
